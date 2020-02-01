@@ -1,1 +1,3 @@
-# helloclass-13
+# maven-project
+
+Simple Maven Project
